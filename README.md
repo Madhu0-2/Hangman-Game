@@ -5,3 +5,4 @@
 <a href="https://hangman-madhu0-2.netlify.app/" target="_blank"><strong>➥ Live Demo</strong></a>
 </div> <br/><br/>
 <b>Screenshots:</b> <br/><br/>
+<img src="https://github.com/Madhu0-2/Hangman-Game/blob/main/readme%20images/readme-image.png"></img>
